@@ -15,13 +15,13 @@ body{
 .form {
   position: relative;
     z-index: 1;
-    background: #8297db;
+    background: #385865;
     max-width: 360px;
     margin: 0 auto 100px;
     padding: 45px;
     text-align: center;
     border-radius: 8px;
-    box-shadow: 0 0 20px 0 rgba(20, 90, 63, 0.8), 0 5px 5px 0 rgba(35, 119, 84, 0.45);
+    box-shadow: 0 0 20px 0 rgba(20, 90, 63, 1.2), 0 5px 5px 0 rgba(35, 119, 84, 1.2);
 }
 
 
@@ -43,12 +43,12 @@ body{
   font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     outline: 0;
-    background: #36301d;
+    background: #14a397;
     width: 100%;
     border: 0;
     padding: 15px;
-    color: #9b812b;
-    font-size: 14px;
+    color: #fff;
+    font-size: 16px;
     -webkit-transition: all 0.3 ease;
     transition: all 0.3 ease;
     cursor: pointer;
@@ -57,8 +57,8 @@ body{
 
 
 .form button:hover,.form button:active,.form button:focus {
-  background: #42997c;
-  color: #02412c;
+  background: #42f3e4;
+  color: #385865;
 }
 
 .imagem{
